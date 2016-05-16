@@ -1,36 +1,32 @@
 {
-    "colors": [{
-        "Red": {
-            "H": "346",
-            "S": "96",
-            "V": "93",
-            "R": "237",
-            "G": "10",
-            "B": "63",
-            "Hexadecimal": "#ED0A3F",
-            "Notes": "Produced 1903–present."
-        }
-    }, {
-        "Maroon": {
-            "H": "346",
-            "S": "83",
-            "V": "76",
-            "R": "195",
-            "G": "33",
-            "B": "72",
-            "Hexadecimal": "#C32148",
-            "Notes": "Produced 1949–present. Known as \"Dark Red\", 1949–1958."
-        }
-    }, {
-        "Scarlet": {
-            "H": "350",
-            "S": "94",
-            "V": "99",
-            "R": "253",
-            "G": "14",
-            "B": "53",
-            "Hexadecimal": "#FD0E35",
-            "Notes": "Produced 1998–present. Known as \"Torch Red\", 1998."
-        }
-    }]
+  "Red": {
+    "H": "346",
+    "S": "96",
+    "V": "93",
+    "R": "237",
+    "G": "10",
+    "B": "63",
+    "Hexadecimal": "#ED0A3F",
+    "Notes": "Produced 1903–present."
+  },
+  "Maroon": {
+    "H": "346",
+    "S": "83",
+    "V": "76",
+    "R": "195",
+    "G": "33",
+    "B": "72",
+    "Hexadecimal": "#C32148",
+    "Notes": "Produced 1949–present. Known as \"Dark Red\", 1949–1958."
+  },
+  "Scarlet": {
+    "H": "350",
+    "S": "94",
+    "V": "99",
+    "R": "253",
+    "G": "14",
+    "B": "53",
+    "Hexadecimal": "#FD0E35",
+    "Notes": "Produced 1998–present. Known as \"Torch Red\", 1998."
+  }
 }
