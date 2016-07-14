@@ -43,6 +43,11 @@ let config = {
         loaders: ['style', 'css']
       },
       {
+        test: /\.json$/,
+        exclude: /node_modules/,
+        loaders: ['json']
+      },
+      {
         test: /\.(jpg|png|ttf|eot|woff|woff2|svg)$/,
         exclude: /node_modules/,
         loader: 'url?limit=100000'
