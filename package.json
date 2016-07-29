@@ -1,5 +1,6 @@
 {
-  "name": "no-config",
+  "name": "colors",
+  "homepage": "http://marchdoe.github.io/colors",
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
