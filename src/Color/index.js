@@ -1,7 +1,7 @@
-import React from 'react'
-import styles from './colors.css'
+import React from 'react';
+import './Color.css'
 import shuffle from 'lodash.shuffle'
-const colorList = require('./colors')
+const colorList = require('./Color.json')
 
 export default React.createClass({
   componentWillMount() {
@@ -26,7 +26,7 @@ export default React.createClass({
     return colorNames
   },
 
-  onClick() {
+  handleClick() {
     const newColor = this.getRandomColor(this.state.unusedColors)
     const unusedColors = this.removeColor(newColor)
 
@@ -51,17 +51,16 @@ export default React.createClass({
     }
 
     return (
-      <div className={styles.wrapper} onClick={this.onClick}>
-          <h1 className={styles.h1}>
-              {name}
-              <span className={styles.hex}>{details.Hexadecimal}</span>
-          </h1>
-          <p className={styles.p}>{details.Notes}</p>
-          <span className={styles.rgb}>{rgb}</span> | <span className={styles.hsv}>{hsv}</span>
+      <div className="mt3 px2 wrapper" onClick={this.handleClick}>
+        <h1 className="h1 my1 px1 py2 border-bottom">
+          {name}
+          <span className="h2 pb0 px1 regular hex">{details.Hexadecimal}</span>
+        </h1>
+        <p className="h2 m0 mb2 p0 px1 py2 border-bottom">{details.Notes}</p>
+        <span className="h4 p1 pb2 inline-block rgb">{rgb}</span>
+        <span className="h4 p1 pb2 inline-block hsv">{hsv}</span>
 
-          <div className={styles.background} style={style.background}>
-
-          </div>
+        <div className="background" style={style.background}></div>
       </div>
     )
   }
