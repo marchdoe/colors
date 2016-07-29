@@ -5,7 +5,7 @@
   "private": true,
   "devDependencies": {
     "lodash.shuffle": "^4.0.0",
-    "react-scripts": "0.1.0"
+    "react-scripts": "0.2.0"
   },
   "dependencies": {
     "react": "^15.2.1",
