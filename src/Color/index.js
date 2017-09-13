@@ -1,7 +1,19 @@
-import React from 'react';
-import './Color.css'
+import React from 'react'
 import shuffle from 'lodash.shuffle'
+import styled from 'styled-components'
+import { color } from '../theme'
+import { Box, Divider, Flex, Heading, Text } from 'rebass'
+
 const colorList = require('./Color.json')
+
+const StyledHeading = styled(Heading)`
+  display: inline-block;
+`
+
+const StyledHeadingHex = styled(Text)`
+  display: inline-block;
+  color: ${color.gray60};
+`
 
 export default React.createClass({
   componentWillMount() {
@@ -45,23 +57,39 @@ export default React.createClass({
     const style = {
       background: {
         backgroundColor: `${details.Hexadecimal}`,
-        padding: '30px',
-        margin: '0'
+        minHeight: '80vh'
       }
     }
 
     return (
-      <div className="mt3 px2 wrapper" onClick={this.handleClick}>
-        <h1 className="h1 my1 px1 py2 border-bottom">
+      <Box pt={3} px={3} onClick={this.handleClick}>
+        <StyledHeading is={'h1'} f={[5,6]} py={1} px={2}>
           {name}
-          <span className="h2 pb0 px1 regular hex">{details.Hexadecimal}</span>
-        </h1>
-        <p className="h2 m0 mb2 p0 px1 py2 border-bottom">{details.Notes}</p>
-        <span className="h4 p1 pb2 inline-block rgb">{rgb}</span>
-        <span className="h4 p1 pb2 inline-block hsv">{hsv}</span>
+        </StyledHeading>
+        <StyledHeadingHex is={'small'} f={[2,3]} py={1} px={2}>
+          {details.Hexadecimal}
+        </StyledHeadingHex>
 
-        <div className="background" style={style.background}></div>
-      </div>
+        <Divider color='#e3e3e3' />
+
+        <Text is={'h2'} f={[2, 4]} p={2} pr={[2, 4, 6]}>
+          {details.Notes}
+        </Text>
+
+        <Divider color={ color.gray30 } />
+
+        <Flex justify={'space-between'}>
+          <Text is={'p'} p={2}>
+            {rgb}
+          </Text>
+
+          <Text is={'p'} p={2} mb={2}>
+            {hsv}
+          </Text>
+        </Flex>
+
+        <Box style={style.background}></Box>
+      </Box>
     )
   }
 })
