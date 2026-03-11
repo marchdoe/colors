@@ -1628,5 +1628,135 @@
     "B": "255",
     "Hexadecimal": "#FFFFFF",
     "Notes": "Produced 1903–present."
+  },
+  "Bluetiful": {
+    "H": "211",
+    "S": "51",
+    "V": "86",
+    "R": "108",
+    "G": "160",
+    "B": "220",
+    "Hexadecimal": "#6CA0DC",
+    "Notes": "Produced 2017–present. Replaced Dandelion in the 24-pack."
+  },
+  "Chestnut": {
+    "H": "352",
+    "S": "61",
+    "V": "73",
+    "R": "185",
+    "G": "78",
+    "B": "72",
+    "Hexadecimal": "#B94E48",
+    "Notes": "Produced 1999–present. Renamed from Indian Red in 1999."
+  },
+  "Neon Carrot": {
+    "H": "27",
+    "S": "100",
+    "V": "100",
+    "R": "255",
+    "G": "163",
+    "B": "67",
+    "Hexadecimal": "#FFA343",
+    "Notes": "Produced 1998–present."
+  },
+  "Atomic Tangerine": {
+    "H": "16",
+    "S": "100",
+    "V": "100",
+    "R": "255",
+    "G": "164",
+    "B": "116",
+    "Hexadecimal": "#FF9966",
+    "Notes": "Produced 1998–present."
+  },
+  "Sunglow": {
+    "H": "44",
+    "S": "100",
+    "V": "100",
+    "R": "255",
+    "G": "204",
+    "B": "51",
+    "Hexadecimal": "#FFCC33",
+    "Notes": "Produced 1998–present."
+  },
+  "Laser Lemon": {
+    "H": "63",
+    "S": "100",
+    "V": "100",
+    "R": "253",
+    "G": "252",
+    "B": "0",
+    "Hexadecimal": "#FDFC00",
+    "Notes": "Produced 1990–present."
+  },
+  "Screamin' Green": {
+    "H": "120",
+    "S": "100",
+    "V": "100",
+    "R": "118",
+    "G": "255",
+    "B": "122",
+    "Hexadecimal": "#76FF7A",
+    "Notes": "Produced 1990–present."
+  },
+  "Magic Mint": {
+    "H": "146",
+    "S": "49",
+    "V": "100",
+    "R": "170",
+    "G": "240",
+    "B": "209",
+    "Hexadecimal": "#AAF0D1",
+    "Notes": "Produced 1990–present."
+  },
+  "Robin Egg Blue": {
+    "H": "185",
+    "S": "73",
+    "V": "82",
+    "R": "57",
+    "G": "192",
+    "B": "210",
+    "Hexadecimal": "#39C0D2",
+    "Notes": "Produced 1993–present."
+  },
+  "Outrageous Orange": {
+    "H": "16",
+    "S": "71",
+    "V": "100",
+    "R": "255",
+    "G": "110",
+    "B": "74",
+    "Hexadecimal": "#FF6E4A",
+    "Notes": "Produced 1998–present."
+  },
+  "Hot Magenta": {
+    "H": "312",
+    "S": "89",
+    "V": "100",
+    "R": "255",
+    "G": "29",
+    "B": "206",
+    "Hexadecimal": "#FF1DCE",
+    "Notes": "Produced 1990–present."
+  },
+  "Piggy Pink": {
+    "H": "353",
+    "S": "13",
+    "V": "100",
+    "R": "253",
+    "G": "221",
+    "B": "230",
+    "Hexadecimal": "#FDDDE6",
+    "Notes": "Produced 1998–present."
+  },
+  "Electric Lime": {
+    "H": "68",
+    "S": "89",
+    "V": "100",
+    "R": "206",
+    "G": "255",
+    "B": "29",
+    "Hexadecimal": "#CEFF1D",
+    "Notes": "Produced 1990–present."
   }
 }
