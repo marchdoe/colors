@@ -110,9 +110,25 @@ body {
 }
 
 .color-page.immersive .color-info {
-  padding: 20px 20px 24px;
+  padding: 20px 20px 40px;
   background: linear-gradient(transparent, rgba(0, 0, 0, 0.2));
 }
+
+.color-page.immersive.dark-text .color-info {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.08));
+}
+.color-page.immersive.dark-text .color-name    { color: rgba(0,0,0,0.85); }
+.color-page.immersive.dark-text .color-hex     { color: rgba(0,0,0,0.45); }
+.color-page.immersive.dark-text .divider       { border-top-color: rgba(0,0,0,0.12); }
+.color-page.immersive.dark-text .color-values  { color: rgba(0,0,0,0.5); }
+.color-page.immersive.dark-text .color-years   { color: rgba(0,0,0,0.45); }
+.color-page.immersive.dark-text .view-toggle   { border-color: rgba(0,0,0,0.25); color: rgba(0,0,0,0.5); }
+.color-page.immersive.dark-text .view-toggle:hover { border-color: rgba(0,0,0,0.6); color: rgba(0,0,0,0.85); }
+.color-page.immersive.dark-text .badge         { background: rgba(0,0,0,0.08); color: rgba(0,0,0,0.65); border-color: transparent; }
+.color-page.immersive.dark-text .section-label { color: rgba(0,0,0,0.35); }
+.color-page.immersive.dark-text .history-list li     { color: rgba(0,0,0,0.7); border-bottom-color: rgba(0,0,0,0.08); }
+.color-page.immersive.dark-text .history-years       { color: rgba(0,0,0,0.35); }
+.color-page.immersive.dark-text .variant-pill  { background: rgba(0,0,0,0.06); border-color: rgba(0,0,0,0.25); color: rgba(0,0,0,0.6); }
 
 .color-page.immersive .color-name {
   color: #fff;
