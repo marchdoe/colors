@@ -2,7 +2,7 @@
 
 An interactive browser for all 242 Crayola crayon colors, built with React and Vite. Browse every color with its full production history, previous names, scented and glitter variants, and color values.
 
-[![Crayola Colors](https://marchdoe.github.io/colors/og-image.png)](https://marchdoe.github.io/colors/)
+[![Crayola Colors](public/og-image.png)](https://marchdoe.github.io/colors/)
 
 **[→ View the site](https://marchdoe.github.io/colors/)**
 
