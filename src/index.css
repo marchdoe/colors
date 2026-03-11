@@ -19,6 +19,8 @@ body {
 
 .color-page {
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .color-info {
@@ -53,14 +55,6 @@ body {
   margin: 10px 0;
 }
 
-.color-notes {
-  font-size: clamp(0.9rem, 2.5vw, 1.25rem);
-  color: #333;
-  margin: 0 0 10px;
-  line-height: 1.5;
-  padding-right: clamp(16px, 8vw, 96px);
-}
-
 .color-values {
   display: flex;
   justify-content: space-between;
@@ -70,7 +64,8 @@ body {
 }
 
 .color-swatch {
-  min-height: 80vh;
+  flex: 1;
+  min-height: 0;
 }
 
 /* ── Toggle button ────────────────────────────── */
@@ -123,10 +118,6 @@ body {
   border-top-color: rgba(255, 255, 255, 0.25);
 }
 
-.color-page.immersive .color-notes {
-  color: rgba(255, 255, 255, 0.8);
-}
-
 .color-page.immersive .color-values {
   color: rgba(255, 255, 255, 0.65);
 }
@@ -139,4 +130,128 @@ body {
 .color-page.immersive .view-toggle:hover {
   border-color: rgba(255, 255, 255, 0.7);
   color: #fff;
+}
+
+/* ── Meta row ─────────────────────────────────── */
+
+.color-meta {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin: 8px 0 4px;
+  flex-wrap: wrap;
+}
+
+.color-years {
+  font-size: 0.8rem;
+  color: #bbb;
+}
+
+/* ── Badges ───────────────────────────────────── */
+
+.badge {
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  border-radius: 4px;
+  padding: 2px 7px;
+  flex-shrink: 0;
+}
+
+.badge-current  { background: #e6f5ee; color: #2d8c5e; }
+.badge-retired  { background: #fdf0ed; color: #c0552a; }
+
+.badge-coll-standard      { background: #f0f0f0; color: #888; }
+.badge-coll-munsell       { background: #eef2fb; color: #4a6abf; }
+.badge-coll-fluorescent   { background: #fffbe6; color: #b08800; }
+.badge-coll-gem-tones     { background: #f5eefb; color: #7a44b8; }
+.badge-coll-silver-swirls { background: #f4f4f4; color: #777; border: 1px solid #ddd; }
+.badge-coll-pearl-brite   { background: #eef8fb; color: #3a8fa8; }
+
+/* ── Name history list ────────────────────────── */
+
+.section-label {
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #ccc;
+  margin: 0 0 5px;
+}
+
+.history-list {
+  margin: 0 0 8px;
+  padding: 0;
+  list-style: none;
+}
+
+.history-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  font-size: 0.82rem;
+  color: #555;
+  padding: 3px 0;
+  border-bottom: 1px solid #f7f7f7;
+}
+
+.history-list li:last-child { border-bottom: none; }
+
+.history-years {
+  color: #ccc;
+  font-size: 0.75rem;
+  flex-shrink: 0;
+  width: 88px;
+}
+
+/* ── Variant pills ────────────────────────────── */
+
+.variants-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-bottom: 8px;
+}
+
+.variant-pill {
+  font-size: 10px;
+  padding: 3px 9px;
+  border-radius: 20px;
+  border: 1px solid #eee;
+  color: #999;
+}
+
+.variant-scented { background: #fff8f0; border-color: #f5dfc0; color: #b07020; }
+.variant-glitter { background: #fafaf5; border-color: #e0e0c0; color: #888850; }
+
+/* ── Immersive overrides for new elements ─────── */
+
+.color-page.immersive .color-years {
+  color: rgba(255,255,255,0.5);
+}
+
+.color-page.immersive .badge {
+  background: rgba(255,255,255,0.15);
+  color: rgba(255,255,255,0.8);
+  border-color: transparent;
+}
+
+.color-page.immersive .section-label {
+  color: rgba(255,255,255,0.4);
+}
+
+.color-page.immersive .history-list li {
+  color: rgba(255,255,255,0.8);
+  border-bottom-color: rgba(255,255,255,0.1);
+}
+
+.color-page.immersive .history-years {
+  color: rgba(255,255,255,0.4);
+}
+
+.color-page.immersive .variant-pill {
+  background: rgba(255,255,255,0.1);
+  border-color: rgba(255,255,255,0.7);
+  color: rgba(255,255,255,0.7);
 }
