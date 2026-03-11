@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      width: 1200px;
+      height: 630px;
+      overflow: hidden;
+      display: flex;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    }
+    .left {
+      width: 660px; /* 55% */
+      height: 630px;
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 64px;
+    }
+    .title {
+      font-size: 72px;
+      font-weight: 800;
+      color: #111;
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+    }
+    .subtitle {
+      margin-top: 16px;
+      font-size: 28px;
+      font-weight: 400;
+      color: #999;
+    }
+    .right {
+      width: 540px; /* 45% */
+      height: 630px;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(4, 1fr);
+    }
+    .swatch {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div class="left">
+    <div class="title">Crayola<br>Colors</div>
+    <div class="subtitle">242 colors · full history</div>
+  </div>
+  <div class="right">
+    <div class="swatch" style="background:#ED0A3F"></div>
+    <div class="swatch" style="background:#FF7538"></div>
+    <div class="swatch" style="background:#FDDB6D"></div>
+    <div class="swatch" style="background:#1CAC78"></div>
+    <div class="swatch" style="background:#1F75FE"></div>
+    <div class="swatch" style="background:#7442C8"></div>
+    <div class="swatch" style="background:#FFCBA4"></div>
+    <div class="swatch" style="background:#FC2847"></div>
+    <div class="swatch" style="background:#000000"></div>
+    <div class="swatch" style="background:#8E4585"></div>
+    <div class="swatch" style="background:#29ABCA"></div>
+    <div class="swatch" style="background:#FFFFFF"></div>
+  </div>
+</body>
+</html>
