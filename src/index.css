@@ -24,7 +24,7 @@ body {
 }
 
 .color-info {
-  padding: 16px 16px 0;
+  padding: 16px 16px 54px;
   position: relative;
   min-height: 332px;
 }
@@ -54,6 +54,13 @@ body {
   border: none;
   border-top: 1px solid #e3e3e3;
   margin: 10px 0;
+}
+
+.color-footer {
+  position: absolute;
+  bottom: 0;
+  left: 16px;
+  right: 16px;
 }
 
 .color-values {

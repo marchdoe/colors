@@ -102,11 +102,12 @@ export default function ColorDisplay({
         <NameHistorySection nameHistory={nameHistory} />
         <VariantsSection variants={variants} />
 
-        <hr className="divider" />
-
-        <div className="color-values">
-          <span>rgb: {R}, {G}, {B}</span>
-          <span>hsv: {H}, {S}, {V}</span>
+        <div className="color-footer">
+          <hr className="divider" />
+          <div className="color-values">
+            <span>rgb: {R}, {G}, {B}</span>
+            <span>hsv: {H}, {S}, {V}</span>
+          </div>
         </div>
       </div>
 
