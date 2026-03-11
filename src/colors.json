@@ -9,7 +9,7 @@
     "Hexadecimal": "#ED0A3F",
     "Notes": "Produced 1903–present."
   },
-   "Maroon": {
+  "Maroon": {
     "H": "346",
     "S": "83",
     "V": "76",
@@ -19,7 +19,7 @@
     "Hexadecimal": "#C32148",
     "Notes": "Produced 1949–present. Known as \"Dark Red\", 1949–1958."
   },
-   "Scarlet": {
+  "Scarlet": {
     "H": "350",
     "S": "94",
     "V": "99",
@@ -29,7 +29,7 @@
     "Hexadecimal": "#FD0E35",
     "Notes": "Produced 1998–present. Known as \"Torch Red\", 1998."
   },
-   "Brick Red": {
+  "Brick Red": {
     "H": "352",
     "S": "77",
     "V": "78",
@@ -39,7 +39,7 @@
     "Hexadecimal": "#C62D42",
     "Notes": "Produced 1958–present."
   },
-   "English Vermilion": {
+  "English Vermilion": {
     "H": "358",
     "S": "65",
     "V": "80",
@@ -49,7 +49,27 @@
     "Hexadecimal": "#CC474B",
     "Notes": "Also spelled \"Vermillion.\" Produced 1903–1935."
   },
-   "Madder Lake": {
+  "Orange-Red": {
+    "H": "356",
+    "S": "77",
+    "V": "92",
+    "R": "235",
+    "G": "55",
+    "B": "66",
+    "Hexadecimal": "#EB3742",
+    "Notes": "Produced 1958–1990."
+  },
+  "Mahogany": {
+    "H": "360",
+    "S": "74",
+    "V": "79",
+    "R": "202",
+    "G": "52",
+    "B": "53",
+    "Hexadecimal": "#CA3435",
+    "Notes": "Produced 1949–present."
+  },
+  "Madder Lake": {
     "H": "359",
     "S": "75",
     "V": "80",
@@ -59,7 +79,7 @@
     "Hexadecimal": "#CC3336",
     "Notes": "Produced 1903–1935."
   },
-   "Permanent Geranium Lake": {
+  "Permanent Geranium Lake": {
     "H": "0",
     "S": "80",
     "V": "88",
@@ -69,7 +89,7 @@
     "Hexadecimal": "#E12C2C",
     "Notes": "Produced 1903–circa 1910."
   },
-   "Maximum Red": {
+  "Maximum Red": {
     "H": "0",
     "S": "85",
     "V": "85",
@@ -79,7 +99,7 @@
     "Hexadecimal": "#D92121",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Indian Red": {
+  "Chestnut": {
     "H": "3",
     "S": "61",
     "V": "73",
@@ -87,19 +107,29 @@
     "G": "78",
     "B": "72",
     "Hexadecimal": "#B94E48",
-    "Notes": "Produced 1903–present. Known as \"Chestnut\" since 1999."
+    "Notes": "Produced 1999–present. Renamed from Indian Red in 1999."
   },
-   "Orange-Red": {
+  "Mango Tango": {
+    "H": "5",
+    "S": "84",
+    "V": "100",
+    "R": "255",
+    "G": "59",
+    "B": "41",
+    "Hexadecimal": "#FF3B29",
+    "Notes": "Produced 2003–present."
+  },
+  "Red-Orange": {
     "H": "3",
-    "S": "71",
+    "S": "80",
     "V": "100",
     "R": "255",
     "G": "63",
     "B": "52",
-    "Hexadecimal": "#FF5349",
-    "Notes": "Produced 1958–1990."
+    "Hexadecimal": "#FF3F34",
+    "Notes": "Produced 1930–present."
   },
-   "Sunset Orange": {
+  "Sunset Orange": {
     "H": "4",
     "S": "75",
     "V": "100",
@@ -109,7 +139,7 @@
     "Hexadecimal": "#FE4C40",
     "Notes": "Produced 1997–present."
   },
-   "Bittersweet": {
+  "Bittersweet": {
     "H": "6",
     "S": "63",
     "V": "100",
@@ -119,7 +149,7 @@
     "Hexadecimal": "#FE6F5E",
     "Notes": "Produced 1958–present."
   },
-   "Dark Venetian Red": {
+  "Dark Venetian Red": {
     "H": "10",
     "S": "80",
     "V": "70",
@@ -129,7 +159,7 @@
     "Hexadecimal": "#B33B24",
     "Notes": "\"Venetian Red, Dark\" on labels. Produced 1903–circa 1910."
   },
-   "Venetian Red": {
+  "Venetian Red": {
     "H": "10",
     "S": "70",
     "V": "80",
@@ -139,7 +169,7 @@
     "Hexadecimal": "#CC553D",
     "Notes": "Produced 1903–1944."
   },
-   "Light Venetian Red": {
+  "Light Venetian Red": {
     "H": "10",
     "S": "60",
     "V": "90",
@@ -149,7 +179,7 @@
     "Hexadecimal": "#E6735C",
     "Notes": "\"Venetian Red, Light\" on labels. Produced 1903–circa 1910."
   },
-   "Vivid Tangerine": {
+  "Vivid Tangerine": {
     "H": "12",
     "S": "50",
     "V": "100",
@@ -159,47 +189,57 @@
     "Hexadecimal": "#FF9980",
     "Notes": "Produced 1990–present."
   },
-   "Middle Red": {
-    "H": "15",
+  "Middle Red": {
+    "H": "14",
     "S": "50",
     "V": "90",
     "R": "229",
-    "G": "144",
+    "G": "142",
     "B": "115",
     "Hexadecimal": "#E58E73",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Burnt Orange": {
+  "Outrageous Orange": {
+    "H": "12",
+    "S": "78",
+    "V": "100",
+    "R": "255",
+    "G": "96",
+    "B": "55",
+    "Hexadecimal": "#FF6037",
+    "Notes": "Produced 1998–present."
+  },
+  "Burnt Orange": {
     "H": "18",
-    "S": "71",
+    "S": "80",
     "V": "100",
     "R": "255",
     "G": "112",
     "B": "52",
-    "Hexadecimal": "#FF7F49",
+    "Hexadecimal": "#FF7034",
     "Notes": "Produced 1958–present."
   },
-   "Red-Orange": {
+  "Atomic Tangerine": {
     "H": "20",
-    "S": "88",
+    "S": "60",
     "V": "100",
     "R": "255",
-    "G": "104",
-    "B": "31",
-    "Hexadecimal": "#FF681F",
-    "Notes": "Produced 1930–present."
+    "G": "153",
+    "B": "102",
+    "Hexadecimal": "#FF9966",
+    "Notes": "Produced 1998–present."
   },
-   "Orange": {
+  "Orange": {
     "H": "25",
     "S": "80",
     "V": "100",
     "R": "255",
     "G": "136",
-    "B": "100",
+    "B": "51",
     "Hexadecimal": "#FF8833",
     "Notes": "Produced 1903–present."
   },
-   "Macaroni and Cheese": {
+  "Macaroni and Cheese": {
     "H": "28",
     "S": "52",
     "V": "100",
@@ -209,27 +249,27 @@
     "Hexadecimal": "#FFB97B",
     "Notes": "Produced 1993–present. Also found as \"Macaroni & Cheese\" and \"Macaroni-n-Cheese\"."
   },
-   "Middle Yellow Red": {
-    "H": "30",
+  "Medium Orange": {
+    "H": "27",
     "S": "50",
     "V": "93",
     "R": "236",
-    "G": "177",
+    "G": "172",
     "B": "118",
-    "Hexadecimal": "#ECB176",
-    "Notes": "Part of the Munsell line, 1926–1944. Same color as \"Medium Orange\" (1949–1958)."
+    "Hexadecimal": "#ECAC76",
+    "Notes": "Produced 1926–1944, 1949–1958."
   },
-   "Mango Tango": {
+  "Neon Carrot": {
     "H": "30",
-    "S": "100",
-    "V": "91",
-    "R": "231",
-    "G": "114",
-    "B": "0",
-    "Hexadecimal": "#E77200",
-    "Notes": "Produced 2003–present."
+    "S": "80",
+    "V": "100",
+    "R": "255",
+    "G": "153",
+    "B": "51",
+    "Hexadecimal": "#FF9933",
+    "Notes": "Produced 1998–present."
   },
-   "Yellow-Orange": {
+  "Yellow-Orange": {
     "H": "34",
     "S": "74",
     "V": "100",
@@ -239,7 +279,7 @@
     "Hexadecimal": "#FFAE42",
     "Notes": "Produced 1930–present."
   },
-   "Maximum Yellow Red": {
+  "Maximum Yellow Red": {
     "H": "40",
     "S": "70",
     "V": "95",
@@ -249,7 +289,7 @@
     "Hexadecimal": "#F2BA49",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Banana Mania": {
+  "Banana Mania": {
     "H": "44",
     "S": "29",
     "V": "98",
@@ -259,7 +299,17 @@
     "Hexadecimal": "#FBE7B2",
     "Notes": "Produced 1998–present."
   },
-   "Maize": {
+  "Sunglow": {
+    "H": "45",
+    "S": "80",
+    "V": "100",
+    "R": "255",
+    "G": "204",
+    "B": "51",
+    "Hexadecimal": "#FFCC33",
+    "Notes": "Produced 1998–present."
+  },
+  "Maize": {
     "H": "44",
     "S": "70",
     "V": "95",
@@ -269,7 +319,7 @@
     "Hexadecimal": "#F2C649",
     "Notes": "Produced 1903–1990. Known as \"Gold Ochre\", 1903–1958. \"Golden Ochre\" on some labels."
   },
-   "Orange-Yellow": {
+  "Orange-Yellow": {
     "H": "45",
     "S": "58",
     "V": "97",
@@ -279,7 +329,7 @@
     "Hexadecimal": "#F8D568",
     "Notes": "Produced 1958–1990."
   },
-   "Goldenrod": {
+  "Goldenrod": {
     "H": "45",
     "S": "59",
     "V": "99",
@@ -289,7 +339,7 @@
     "Hexadecimal": "#FCD667",
     "Notes": "Produced 1903–present. Known as \"Medium Chrome Yellow\" (1903–?) and \"Medium Yellow\" (1903–1958)."
   },
-   "Dandelion": {
+  "Dandelion": {
     "H": "46",
     "S": "63",
     "V": "100",
@@ -299,17 +349,37 @@
     "Hexadecimal": "#FED85D",
     "Notes": "Produced 1990–present."
   },
-   "Yellow": {
+  "Crayellow": {
+    "H": "50",
+    "S": "66",
+    "V": "95",
+    "R": "241",
+    "G": "214",
+    "B": "81",
+    "Hexadecimal": "#F1D651",
+    "Notes": "Produced 2021–present*."
+  },
+  "Yellow": {
     "H": "52",
     "S": "55",
     "V": "98",
-    "R": "252",
+    "R": "251",
     "G": "232",
-    "B": "131",
+    "B": "112",
     "Hexadecimal": "#FBE870",
     "Notes": "Produced 1903–present."
   },
-   "Green-Yellow": {
+  "Unmellow Yellow": {
+    "H": "53",
+    "S": "60",
+    "V": "100",
+    "R": "255",
+    "G": "238",
+    "B": "102",
+    "Hexadecimal": "#FFEE66",
+    "Notes": "Produced 1990–present."
+  },
+  "Green-Yellow": {
     "H": "54",
     "S": "44",
     "V": "95",
@@ -319,7 +389,7 @@
     "Hexadecimal": "#F1E788",
     "Notes": "Produced 1958–present."
   },
-   "Middle Yellow": {
+  "Middle Yellow": {
     "H": "55",
     "S": "100",
     "V": "100",
@@ -329,7 +399,17 @@
     "Hexadecimal": "#FFEB00",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Olive Green": {
+  "Lemon Yellow": {
+    "H": "57",
+    "S": "61",
+    "V": "94",
+    "R": "239",
+    "G": "231",
+    "B": "94",
+    "Hexadecimal": "#EFE75E",
+    "Notes": "Produced 1903–1990. Also known as \"Light Chrome Yellow\" (on labels \"Chrome Yellow, Light\") or \"Light Yellow\", 1903–1958. On labels \"Chrome Yellow, Light.\""
+  },
+  "Olive Green": {
     "H": "59",
     "S": "49",
     "V": "71",
@@ -339,7 +419,7 @@
     "Hexadecimal": "#B5B35C",
     "Notes": "Produced 1903–present."
   },
-   "Spring Green": {
+  "Spring Green": {
     "H": "59",
     "S": "20",
     "V": "93",
@@ -349,7 +429,7 @@
     "Hexadecimal": "#ECEBBD",
     "Notes": "Produced 1958–present."
   },
-   "Maximum Yellow": {
+  "Maximum Yellow": {
     "H": "60",
     "S": "78",
     "V": "98",
@@ -359,7 +439,7 @@
     "Hexadecimal": "#FAFA37",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Canary": {
+  "Canary": {
     "H": "60",
     "S": "40",
     "V": "100",
@@ -369,17 +449,17 @@
     "Hexadecimal": "#FFFF99",
     "Notes": "Produced 1998–present."
   },
-   "Lemon Yellow": {
-    "H": "60",
-    "S": "38",
-    "V": "100",
-    "R": "255",
-    "G": "255",
-    "B": "159",
-    "Hexadecimal": "#FFFF9F",
-    "Notes": "Produced 1903–1990. Also known as \"Light Chrome Yellow\" (on labels \"Chrome Yellow, Light\") or \"Light Yellow\", 1903–1958. On labels \"Chrome Yellow, Light.\""
+  "Inchworm": {
+    "H": "62",
+    "S": "83",
+    "V": "89",
+    "R": "222",
+    "G": "227",
+    "B": "39",
+    "Hexadecimal": "#DEE327",
+    "Notes": "Produced 1993–present."
   },
-   "Maximum Green Yellow": {
+  "Maximum Green Yellow": {
     "H": "65",
     "S": "65",
     "V": "90",
@@ -389,7 +469,27 @@
     "Hexadecimal": "#D9E650",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Middle Green Yellow": {
+  "Laser Lemon": {
+    "H": "70",
+    "S": "60",
+    "V": "100",
+    "R": "230",
+    "G": "255",
+    "B": "102",
+    "Hexadecimal": "#E6FF66",
+    "Notes": "Produced 1990–present."
+  },
+  "Electric Lime": {
+    "H": "72",
+    "S": "100",
+    "V": "100",
+    "R": "204",
+    "G": "255",
+    "B": "0",
+    "Hexadecimal": "#CCFF00",
+    "Notes": "Produced 1990–present."
+  },
+  "Middle Green Yellow": {
     "H": "72",
     "S": "50",
     "V": "75",
@@ -399,17 +499,7 @@
     "Hexadecimal": "#ACBF60",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Inchworm": {
-    "H": "75",
-    "S": "92",
-    "V": "89",
-    "R": "175",
-    "G": "227",
-    "B": "19",
-    "Hexadecimal": "#AFE313",
-    "Notes": "Produced 1993–present."
-  },
-   "Light Chrome Green": {
+  "Light Chrome Green": {
     "H": "75",
     "S": "67",
     "V": "90",
@@ -419,7 +509,7 @@
     "Hexadecimal": "#BEE64B",
     "Notes": "\"Chrome Green, Light\" on labels. Produced 1903–1935. Same color as \"Light Green\" (1903–1935)."
   },
-   "Yellow-Green": {
+  "Yellow-Green": {
     "H": "76",
     "S": "46",
     "V": "88",
@@ -429,7 +519,7 @@
     "Hexadecimal": "#C5E17A",
     "Notes": "Produced 1930–present."
   },
-   "Maximum Green": {
+  "Maximum Green": {
     "H": "90",
     "S": "65",
     "V": "55",
@@ -439,7 +529,7 @@
     "Hexadecimal": "#5E8C31",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Asparagus": {
+  "Asparagus": {
     "H": "92",
     "S": "43",
     "V": "63",
@@ -449,7 +539,7 @@
     "Hexadecimal": "#7BA05B",
     "Notes": "Produced 1993–present."
   },
-   "Granny Smith Apple": {
+  "Granny Smith Apple": {
     "H": "112",
     "S": "34",
     "V": "88",
@@ -459,7 +549,17 @@
     "Hexadecimal": "#9DE093",
     "Notes": "Produced 1993–present."
   },
-   "Fern": {
+  "Screamin' Green": {
+    "H": "120",
+    "S": "60",
+    "V": "100",
+    "R": "102",
+    "G": "255",
+    "B": "102",
+    "Hexadecimal": "#66FF66",
+    "Notes": "Produced 1990–present."
+  },
+  "Fern": {
     "H": "126",
     "S": "46",
     "V": "72",
@@ -469,7 +569,7 @@
     "Hexadecimal": "#63B76C",
     "Notes": "Produced 1998–present."
   },
-   "Middle Green": {
+  "Middle Green": {
     "H": "130",
     "S": "45",
     "V": "55",
@@ -479,17 +579,17 @@
     "Hexadecimal": "#4D8C57",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Green": {
-    "H": "135",
-    "S": "65",
-    "V": "65",
-    "R": "58",
-    "G": "166",
-    "B": "85",
-    "Hexadecimal": "#3AA655",
+  "Green": {
+    "H": "158",
+    "S": "99",
+    "V": "64",
+    "R": "1",
+    "G": "163",
+    "B": "104",
+    "Hexadecimal": "#01A368",
     "Notes": "Produced 1903–present."
   },
-   "Medium Chrome Green": {
+  "Medium Chrome Green": {
     "H": "137",
     "S": "35",
     "V": "65",
@@ -499,7 +599,7 @@
     "Hexadecimal": "#6CA67C",
     "Notes": "\"Chrome Green, Medium\" on labels. Produced 1903–1939. Same color as \"Medium Green\" (1903–1939)."
   },
-   "Forest Green": {
+  "Forest Green": {
     "H": "140",
     "S": "43",
     "V": "65",
@@ -509,7 +609,17 @@
     "Hexadecimal": "#5FA777",
     "Notes": "Produced 1949–present. Known as \"Dark Green\", 1949–1958."
   },
-   "Sea Green": {
+  "Magic Mint": {
+    "H": "146",
+    "S": "35",
+    "V": "79",
+    "R": "131",
+    "G": "202",
+    "B": "162",
+    "Hexadecimal": "#83CAA2",
+    "Notes": "Produced 1990–present."
+  },
+  "Sea Green": {
     "H": "149",
     "S": "34",
     "V": "87",
@@ -519,7 +629,7 @@
     "Hexadecimal": "#93DFB8",
     "Notes": "Produced 1949–present. Known as \"Light Green\", 1949–1958."
   },
-   "Shamrock": {
+  "Shamrock": {
     "H": "160",
     "S": "75",
     "V": "80",
@@ -529,7 +639,7 @@
     "Hexadecimal": "#33CC99",
     "Notes": "Produced 1993–present."
   },
-   "Mountain Meadow": {
+  "Mountain Meadow": {
     "H": "162",
     "S": "85",
     "V": "70",
@@ -539,7 +649,7 @@
     "Hexadecimal": "#1AB385",
     "Notes": "Produced 1998–present."
   },
-   "Jungle Green": {
+  "Jungle Green": {
     "H": "163",
     "S": "76",
     "V": "67",
@@ -549,7 +659,7 @@
     "Hexadecimal": "#29AB87",
     "Notes": "Produced 1990–present."
   },
-   "Caribbean Green": {
+  "Caribbean Green": {
     "H": "165",
     "S": "100",
     "V": "80",
@@ -559,7 +669,7 @@
     "Hexadecimal": "#00CC99",
     "Notes": "Produced 1997–present."
   },
-   "Tropical Rain Forest": {
+  "Tropical Rain Forest": {
     "H": "168",
     "S": "100",
     "V": "46",
@@ -569,7 +679,7 @@
     "Hexadecimal": "#00755E",
     "Notes": "Produced 1993–present."
   },
-   "Middle Blue Green": {
+  "Middle Blue Green": {
     "H": "170",
     "S": "35",
     "V": "85",
@@ -579,17 +689,17 @@
     "Hexadecimal": "#8DD9CC",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Pine Green": {
+  "Pine Green": {
     "H": "175",
     "S": "99",
     "V": "47",
     "R": "1",
-    "G": "120",
+    "G": "121",
     "B": "111",
-    "Hexadecimal": "#01786F",
+    "Hexadecimal": "#01796F",
     "Notes": "Produced 1903–1949, 1958–present. Known as \"Dark Chrome Green\" (\"Chrome Green, Dark\" on labels) or \"Dark Green\", 1903–1949."
   },
-   "Maximum Blue Green": {
+  "Maximum Blue Green": {
     "H": "180",
     "S": "75",
     "V": "75",
@@ -599,7 +709,17 @@
     "Hexadecimal": "#30BFBF",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Robin's Egg Blue": {
+  "Cool Mint": {
+    "H": "184",
+    "S": "6",
+    "V": "93",
+    "R": "221",
+    "G": "235",
+    "B": "236",
+    "Hexadecimal": "#DDEBEC",
+    "Notes": "Produced 2021–present*."
+  },
+  "Robin's Egg Blue": {
     "H": "180",
     "S": "100",
     "V": "80",
@@ -609,7 +729,7 @@
     "Hexadecimal": "#00CCCC",
     "Notes": "Produced 1993–present."
   },
-   "Teal Blue": {
+  "Teal Blue": {
     "H": "180",
     "S": "100",
     "V": "50",
@@ -619,7 +739,7 @@
     "Hexadecimal": "#008080",
     "Notes": "Produced 1990–2003."
   },
-   "Light Blue": {
+  "Light Blue": {
     "H": "180",
     "S": "34",
     "V": "85",
@@ -629,7 +749,7 @@
     "Hexadecimal": "#8FD8D8",
     "Notes": "Produced only in 1958."
   },
-   "Aquamarine": {
+  "Aquamarine": {
     "H": "186",
     "S": "36",
     "V": "91",
@@ -639,7 +759,7 @@
     "Hexadecimal": "#95E0E8",
     "Notes": "Produced 1949–present. Known as \"Light Turquoise Blue\", 1949–1958."
   },
-   "Turquoise Blue": {
+  "Turquoise Blue": {
     "H": "186",
     "S": "53",
     "V": "91",
@@ -649,7 +769,7 @@
     "Hexadecimal": "#6CDAE7",
     "Notes": "Produced 1935–present. Available only in bulk, 1935–1949."
   },
-   "Outer Space": {
+  "Outer Space": {
     "H": "189",
     "S": "22",
     "V": "23",
@@ -659,7 +779,7 @@
     "Hexadecimal": "#2D383A",
     "Notes": "Produced 1998–present."
   },
-   "Sky Blue": {
+  "Sky Blue": {
     "H": "190",
     "S": "50",
     "V": "92",
@@ -669,7 +789,7 @@
     "Hexadecimal": "#76D7EA",
     "Notes": "Produced 1958–present."
   },
-   "Middle Blue": {
+  "Middle Blue": {
     "H": "190",
     "S": "45",
     "V": "90",
@@ -679,7 +799,17 @@
     "Hexadecimal": "#7ED4E6",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Blue-Green": {
+  "Blizzard Blue": {
+    "H": "191",
+    "S": "55",
+    "V": "88",
+    "R": "100",
+    "G": "202",
+    "B": "224",
+    "Hexadecimal": "#64CAE0",
+    "Notes": "Produced 1972–2003, 2025."
+  },
+  "Blue-Green": {
     "H": "191",
     "S": "100",
     "V": "72",
@@ -689,7 +819,7 @@
     "Hexadecimal": "#0095B7",
     "Notes": "Produced 1949–present. Known as \"Middle Blue-Green\", 1949–1958."
   },
-   "Pacific Blue": {
+  "Pacific Blue": {
     "H": "192",
     "S": "100",
     "V": "77",
@@ -699,7 +829,7 @@
     "Hexadecimal": "#009DC4",
     "Notes": "Produced 1993–present."
   },
-   "Cerulean": {
+  "Cerulean": {
     "H": "193",
     "S": "99",
     "V": "83",
@@ -709,7 +839,7 @@
     "Hexadecimal": "#02A4D3",
     "Notes": "Produced 1990–present."
   },
-   "Maximum Blue": {
+  "Maximum Blue": {
     "H": "195",
     "S": "65",
     "V": "80",
@@ -719,17 +849,17 @@
     "Hexadecimal": "#47ABCC",
     "Notes": "Produced 1926–1958. Part of the Munsell line, 1926–1944. Also known as \"Blue-Green\", 1930–1958."
   },
-   "Blue (I)": {
+  "Azure Blue": {
     "H": "196",
     "S": "80",
     "V": "90",
     "R": "46",
     "G": "180",
     "B": "230",
-    "Hexadecimal": "#4997D0",
-    "Notes": "Produced 1903–1958. Known as \"Celestial Blue\", 1935–1949, and \"Azure Blue\", 1949–1958."
+    "Hexadecimal": "#2EB4E6",
+    "Notes": "Produced 1903–1958."
   },
-   "Cerulean Blue": {
+  "Cerulean Blue": {
     "H": "200",
     "S": "75",
     "V": "80",
@@ -739,7 +869,7 @@
     "Hexadecimal": "#339ACC",
     "Notes": "Produced 1949–1958."
   },
-   "Cornflower": {
+  "Cornflower": {
     "H": "201",
     "S": "37",
     "V": "92",
@@ -749,7 +879,7 @@
     "Hexadecimal": "#93CCEA",
     "Notes": "Produced 1958–present."
   },
-   "Green-Blue": {
+  "Green-Blue": {
     "H": "204",
     "S": "80",
     "V": "78",
@@ -759,17 +889,17 @@
     "Hexadecimal": "#2887C8",
     "Notes": "Produced 1958–1990."
   },
-   "Midnight Blue": {
+  "Midnight Blue": {
     "H": "210",
     "S": "100",
-    "V": "55",
+    "V": "40",
     "R": "0",
-    "G": "70",
-    "B": "140",
-    "Hexadecimal": "#00468C",
+    "G": "51",
+    "B": "102",
+    "Hexadecimal": "#003366",
     "Notes": "Produced 1903–present. Known as \"Prussian Blue\", 1903–1958."
   },
-   "Navy Blue": {
+  "Navy Blue": {
     "H": "210",
     "S": "100",
     "V": "80",
@@ -779,7 +909,7 @@
     "Hexadecimal": "#0066CC",
     "Notes": "Produced 1958–present."
   },
-   "Denim": {
+  "Denim": {
     "H": "213",
     "S": "89",
     "V": "74",
@@ -789,7 +919,7 @@
     "Hexadecimal": "#1560BD",
     "Notes": "Produced 1993–present."
   },
-   "Blue (III)": {
+  "Blue": {
     "H": "216",
     "S": "100",
     "V": "100",
@@ -799,7 +929,37 @@
     "Hexadecimal": "#0066FF",
     "Notes": "Produced 1949–present."
   },
-   "Cadet Blue": {
+  "Blue Ribbon": {
+    "H": "210",
+    "S": "100",
+    "V": "80",
+    "R": "0",
+    "G": "102",
+    "B": "204",
+    "Hexadecimal": "#0B10A2",
+    "Notes": "Produced 1996."
+  },
+  "Blue Bell": {
+    "H": "240",
+    "S": "25",
+    "V": "80",
+    "R": "153",
+    "G": "153",
+    "B": "204",
+    "Hexadecimal": "#8CADDA",
+    "Notes": "Produced 1998–present."
+  },
+  "Powder Blue": {
+    "H": "214",
+    "S": "20",
+    "V": "94",
+    "R": "192",
+    "G": "213",
+    "B": "240",
+    "Hexadecimal": "#C0D5F0",
+    "Notes": "Produced 2021–present*."
+  },
+  "Cadet Blue": {
     "H": "219",
     "S": "13",
     "V": "76",
@@ -809,7 +969,17 @@
     "Hexadecimal": "#A9B2C3",
     "Notes": "Produced 1958–present."
   },
-   "Periwinkle": {
+  "Violet-Blue": {
+    "H": "222",
+    "S": "76",
+    "V": "63",
+    "R": "39",
+    "G": "75",
+    "B": "161",
+    "Hexadecimal": "#274BA1",
+    "Notes": "Produced 1930–1990. Known as Blue-Violet, 1930–1958."
+  },
+  "Periwinkle": {
     "H": "223",
     "S": "15",
     "V": "90",
@@ -819,7 +989,7 @@
     "Hexadecimal": "#C3CDE6",
     "Notes": "Produced 1958–present."
   },
-   "Blue (II)": {
+  "Medium Blue": {
     "H": "224",
     "S": "70",
     "V": "90",
@@ -827,19 +997,19 @@
     "G": "112",
     "B": "230",
     "Hexadecimal": "#4570E6",
-    "Notes": "Produced 1935–1958. Known as \"Medium Blue\", 1949–1958."
+    "Notes": "Produced 1935–1958."
   },
-   "Wild Blue Yonder": {
-    "H": "225",
-    "S": "34",
-    "V": "72",
-    "R": "122",
-    "G": "137",
-    "B": "184",
-    "Hexadecimal": "#7A89B8",
-    "Notes": "Produced 2003–present."
+  "Bluetiful": {
+    "H": "224",
+    "S": "74",
+    "V": "91",
+    "R": "60",
+    "G": "105",
+    "B": "231",
+    "Hexadecimal": "#263A79",
+    "Notes": "Produced 2017–present. Replaced Dandelion in the 24-pack."
   },
-   "Indigo": {
+  "Indigo": {
     "H": "227",
     "S": "60",
     "V": "78",
@@ -849,7 +1019,7 @@
     "Hexadecimal": "#4F69C6",
     "Notes": "Produced 1999–present."
   },
-   "Manatee": {
+  "Manatee": {
     "H": "231",
     "S": "12",
     "V": "63",
@@ -859,7 +1029,17 @@
     "Hexadecimal": "#8D90A1",
     "Notes": "Produced 1998–present."
   },
-   "Cobalt Blue": {
+  "Wild Blue Yonder": {
+    "H": "225",
+    "S": "34",
+    "V": "72",
+    "R": "122",
+    "G": "137",
+    "B": "184",
+    "Hexadecimal": "#7A89B8",
+    "Notes": "Produced 2003–present."
+  },
+  "Cobalt Blue": {
     "H": "236",
     "S": "30",
     "V": "78",
@@ -869,7 +1049,7 @@
     "Hexadecimal": "#8C90C8",
     "Notes": "Produced 1903–1958."
   },
-   "Celestial Blue": {
+  "Celestial Blue": {
     "H": "240",
     "S": "45",
     "V": "80",
@@ -879,17 +1059,7 @@
     "Hexadecimal": "#7070CC",
     "Notes": "Produced 1903–circa 1910."
   },
-   "Blue Bell": {
-    "H": "240",
-    "S": "25",
-    "V": "80",
-    "R": "153",
-    "G": "153",
-    "B": "204",
-    "Hexadecimal": "#9999CC",
-    "Notes": "Produced 1998–present."
-  },
-   "Maximum Blue Purple": {
+  "Maximum Blue Purple": {
     "H": "240",
     "S": "25",
     "V": "90",
@@ -899,17 +1069,7 @@
     "Hexadecimal": "#ACACE6",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Violet-Blue": {
-    "H": "245",
-    "S": "45",
-    "V": "78",
-    "R": "118",
-    "G": "110",
-    "B": "200",
-    "Hexadecimal": "#766EC8",
-    "Notes": "Produced 1930–1990. Known as Blue-Violet, 1930–1958."
-  },
-   "Blue-Violet": {
+  "Blue-Violet": {
     "H": "249",
     "S": "53",
     "V": "72",
@@ -919,7 +1079,7 @@
     "Hexadecimal": "#6456B7",
     "Notes": "Produced 1949–present. Known as \"Violet\" 1949–1958."
   },
-   "Ultramarine Blue": {
+  "Ultramarine Blue": {
     "H": "250",
     "S": "80",
     "V": "75",
@@ -929,7 +1089,17 @@
     "Hexadecimal": "#3F26BF",
     "Notes": "Produced 1903–1944."
   },
-   "Middle Blue Purple": {
+  "Purple Mountains' Majesty": {
+    "H": "253",
+    "S": "37",
+    "V": "71",
+    "R": "128",
+    "G": "113",
+    "B": "180",
+    "Hexadecimal": "#8071B4",
+    "Notes": "Produced 1993–present. Also found as \"Purple Mountain Majesty\" and \"Purple Mountain's Majesty.\""
+  },
+  "Middle Blue Purple": {
     "H": "260",
     "S": "40",
     "V": "75",
@@ -939,7 +1109,7 @@
     "Hexadecimal": "#8B72BE",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Purple Heart": {
+  "Purple Heart": {
     "H": "263",
     "S": "77",
     "V": "76",
@@ -949,7 +1119,7 @@
     "Hexadecimal": "#652DC1",
     "Notes": "Produced 1998–present."
   },
-   "Royal Purple": {
+  "Royal Purple": {
     "H": "267",
     "S": "61",
     "V": "63",
@@ -959,7 +1129,7 @@
     "Hexadecimal": "#6B3FA0",
     "Notes": "Produced 1990–present."
   },
-   "Violet (II)": {
+  "Violet (II)": {
     "H": "274",
     "S": "45",
     "V": "64",
@@ -969,7 +1139,7 @@
     "Hexadecimal": "#8359A3",
     "Notes": "Produced 1930–1949, 1958–present. On labels \"Violet (Purple)\"."
   },
-   "Medium Violet": {
+  "Medium Violet": {
     "H": "280",
     "S": "60",
     "V": "70",
@@ -979,7 +1149,7 @@
     "Hexadecimal": "#8F47B3",
     "Notes": "Produced 1949–1958."
   },
-   "Wisteria": {
+  "Wisteria": {
     "H": "281",
     "S": "27",
     "V": "86",
@@ -989,7 +1159,7 @@
     "Hexadecimal": "#C9A0DC",
     "Notes": "Produced 1993–present."
   },
-   "Lavender (I)": {
+  "Lavender (I)": {
     "H": "287",
     "S": "30",
     "V": "80",
@@ -999,7 +1169,7 @@
     "Hexadecimal": "#BF8FCC",
     "Notes": "Produced 1949–1958."
   },
-   "Vivid Violet": {
+  "Vivid Violet": {
     "H": "289",
     "S": "62",
     "V": "56",
@@ -1009,7 +1179,7 @@
     "Hexadecimal": "#803790",
     "Notes": "Produced 1997–present."
   },
-   "Maximum Purple": {
+  "Maximum Purple": {
     "H": "290",
     "S": "60",
     "V": "50",
@@ -1019,17 +1189,7 @@
     "Hexadecimal": "#733380",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Purple Mountains' Majesty": {
-    "H": "291",
-    "S": "21",
-    "V": "87",
-    "R": "214",
-    "G": "174",
-    "B": "221",
-    "Hexadecimal": "#D6AEDD",
-    "Notes": "Produced 1993–present. Also found as \"Purple Mountain Majesty\" and \"Purple Mountain's Majesty.\""
-  },
-   "Fuchsia": {
+  "Fuchsia": {
     "H": "300",
     "S": "56",
     "V": "76",
@@ -1039,17 +1199,37 @@
     "Hexadecimal": "#C154C1",
     "Notes": "Produced 1990–present."
   },
-   "Pink Flamingo": {
+  "Thistle": {
+    "H": "300",
+    "S": "12",
+    "V": "85",
+    "R": "216",
+    "G": "191",
+    "B": "216",
+    "Hexadecimal": "#D8BFD8",
+    "Notes": "Produced 1949–1999. Known as \"Light Magenta\", 1949–1958."
+  },
+  "Pink Flamingo": {
     "H": "300",
     "S": "54",
     "V": "99",
-    "R": "252",
+    "R": "253",
     "G": "116",
     "B": "253",
     "Hexadecimal": "#FC74FD",
     "Notes": "Produced 1997–present."
   },
-   "Violet (I)": {
+  "Shocking Pink": {
+    "H": "300",
+    "S": "57",
+    "V": "100",
+    "R": "255",
+    "G": "110",
+    "B": "255",
+    "Hexadecimal": "#FF6EFF",
+    "Notes": "Produced 1972–present."
+  },
+  "Violet (I)": {
     "H": "306",
     "S": "60",
     "V": "45",
@@ -1059,7 +1239,17 @@
     "Hexadecimal": "#732E6C",
     "Notes": "Produced 1903–1930. Also known as \"Purple\" (1903–circa 1914)."
   },
-   "Brilliant Rose": {
+  "Razzle Dazzle Rose": {
+    "H": "309",
+    "S": "78",
+    "V": "93",
+    "R": "238",
+    "G": "52",
+    "B": "210",
+    "Hexadecimal": "#EE34D2",
+    "Notes": "Produced 1972–present."
+  },
+  "Brilliant Rose": {
     "H": "311",
     "S": "55",
     "V": "90",
@@ -1069,7 +1259,17 @@
     "Hexadecimal": "#E667CE",
     "Notes": "Produced 1949–1958."
   },
-   "Orchid": {
+  "Hot Magenta": {
+    "H": "312",
+    "S": "100",
+    "V": "100",
+    "R": "255",
+    "G": "0",
+    "B": "204",
+    "Hexadecimal": "#FF00CC",
+    "Notes": "Produced 1990–present."
+  },
+  "Orchid": {
     "H": "314",
     "S": "31",
     "V": "89",
@@ -1079,17 +1279,17 @@
     "Hexadecimal": "#E29CD2",
     "Notes": "Produced 1949–present. Known as \"Medium Red-Violet\", 1949–1958."
   },
-   "Plum": {
-    "H": "314",
-    "S": "65",
-    "V": "56",
-    "R": "142",
+  "Plum": {
+    "H": "308",
+    "S": "63",
+    "V": "52",
+    "R": "132",
     "G": "49",
     "B": "121",
-    "Hexadecimal": "#8E3179",
+    "Hexadecimal": "#843179",
     "Notes": "Produced 1958–present."
   },
-   "Medium Rose": {
+  "Medium Rose": {
     "H": "315",
     "S": "50",
     "V": "85",
@@ -1099,27 +1299,17 @@
     "Hexadecimal": "#D96CBE",
     "Notes": "Produced 1949–1958."
   },
-   "Thistle": {
-    "H": "320",
-    "S": "25",
-    "V": "92",
-    "R": "235",
-    "G": "176",
-    "B": "215",
-    "Hexadecimal": "#EBB0D7",
-    "Notes": "Produced 1949–1999. Known as \"Light Magenta\", 1949–1958."
+  "Purple Pizzazz": {
+    "H": "316",
+    "S": "100",
+    "V": "100",
+    "R": "255",
+    "G": "0",
+    "B": "187",
+    "Hexadecimal": "#FF00BB",
+    "Notes": "Produced 1990–present."
   },
-   "Mulberry": {
-    "H": "323",
-    "S": "60",
-    "V": "78",
-    "R": "200",
-    "G": "80",
-    "B": "155",
-    "Hexadecimal": "#C8509B",
-    "Notes": "Produced 1958–2003."
-  },
-   "Red-Violet": {
+  "Red-Violet": {
     "H": "324",
     "S": "73",
     "V": "73",
@@ -1129,7 +1319,7 @@
     "Hexadecimal": "#BB3385",
     "Notes": "Produced 1930–present."
   },
-   "Middle Purple": {
+  "Middle Purple": {
     "H": "325",
     "S": "40",
     "V": "85",
@@ -1139,7 +1329,7 @@
     "Hexadecimal": "#D982B5",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Maximum Red Purple": {
+  "Maximum Red Purple": {
     "H": "325",
     "S": "65",
     "V": "65",
@@ -1149,7 +1339,7 @@
     "Hexadecimal": "#A63A79",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Jazzberry Jam": {
+  "Jazzberry Jam": {
     "H": "328",
     "S": "93",
     "V": "65",
@@ -1159,7 +1349,7 @@
     "Hexadecimal": "#A50B5E",
     "Notes": "Produced 2003–present."
   },
-   "Eggplant": {
+  "Eggplant": {
     "H": "329",
     "S": "34",
     "V": "38",
@@ -1169,7 +1359,17 @@
     "Hexadecimal": "#614051",
     "Notes": "Produced 1998–present."
   },
-   "Magenta": {
+  "Mulberry": {
+    "H": "331",
+    "S": "82",
+    "V": "69",
+    "R": "175",
+    "G": "31",
+    "B": "101",
+    "Hexadecimal": "#AF1F65",
+    "Notes": "Produced 1958–2003."
+  },
+  "Magenta": {
     "H": "329",
     "S": "66",
     "V": "96",
@@ -1179,7 +1379,7 @@
     "Hexadecimal": "#F653A6",
     "Notes": "Produced 1903–present. Same color as \"Permanent Magenta\" (1903–?)."
   },
-   "Cerise": {
+  "Cerise": {
     "H": "330",
     "S": "77",
     "V": "85",
@@ -1189,7 +1389,7 @@
     "Hexadecimal": "#DA3287",
     "Notes": "Produced 1993–present."
   },
-   "Wild Strawberry": {
+  "Wild Strawberry": {
     "H": "330",
     "S": "80",
     "V": "100",
@@ -1199,7 +1399,7 @@
     "Hexadecimal": "#FF3399",
     "Notes": "Produced 1990–present."
   },
-   "Lavender (II)": {
+  "Lavender (III)": {
     "H": "332",
     "S": "31",
     "V": "98",
@@ -1207,9 +1407,9 @@
     "G": "174",
     "B": "210",
     "Hexadecimal": "#FBAED2",
-    "Notes": "Produced 1958–present."
+    "Notes": "Produced 1999–present."
   },
-   "Cotton Candy": {
+  "Cotton Candy": {
     "H": "335",
     "S": "28",
     "V": "100",
@@ -1219,7 +1419,7 @@
     "Hexadecimal": "#FFB7D5",
     "Notes": "Produced 1998–present."
   },
-   "Carnation Pink": {
+  "Carnation Pink": {
     "H": "336",
     "S": "35",
     "V": "100",
@@ -1229,7 +1429,17 @@
     "Hexadecimal": "#FFA6C9",
     "Notes": "Produced 1903–present. Known as \"Rose Pink\" (1903–1958) and \"Pink\" (1903–1917)."
   },
-   "Violet-Red": {
+  "Lavender (II)": {
+    "H": "340",
+    "S": "6",
+    "V": "100",
+    "R": "255",
+    "G": "240",
+    "B": "245",
+    "Hexadecimal": "#FFF0F5",
+    "Notes": "Produced 1958–present."
+  },
+  "Violet-Red": {
     "H": "337",
     "S": "72",
     "V": "97",
@@ -1239,7 +1449,7 @@
     "Hexadecimal": "#F7468A",
     "Notes": "Produced 1958–present."
   },
-   "Razzmatazz": {
+  "Razzmatazz": {
     "H": "338",
     "S": "95",
     "V": "89",
@@ -1249,7 +1459,7 @@
     "Hexadecimal": "#E30B5C",
     "Notes": "Produced 1993–present."
   },
-   "Pig Pink": {
+  "Piggy Pink": {
     "H": "339",
     "S": "15",
     "V": "99",
@@ -1257,9 +1467,9 @@
     "G": "215",
     "B": "228",
     "Hexadecimal": "#FDD7E4",
-    "Notes": "Produced 1998–present. Also called \"Piggy Pink.\""
+    "Notes": "Produced 1998–present."
   },
-   "Carmine": {
+  "Carmine": {
     "H": "340",
     "S": "80",
     "V": "90",
@@ -1269,7 +1479,7 @@
     "Hexadecimal": "#E62E6B",
     "Notes": "Produced 1935–1958. Known as \"Carmine Red\", 1949–1958."
   },
-   "Blush": {
+  "Blush": {
     "H": "342",
     "S": "63",
     "V": "86",
@@ -1279,7 +1489,7 @@
     "Hexadecimal": "#DB5079",
     "Notes": "Produced 1998–present. Known as \"Cranberry\", 1998–2005."
   },
-   "Tickle Me Pink": {
+  "Tickle Me Pink": {
     "H": "342",
     "S": "49",
     "V": "99",
@@ -1289,7 +1499,7 @@
     "Hexadecimal": "#FC80A5",
     "Notes": "Produced 1993–present."
   },
-   "Mauvelous": {
+  "Mauvelous": {
     "H": "345",
     "S": "40",
     "V": "94",
@@ -1299,7 +1509,17 @@
     "Hexadecimal": "#F091A9",
     "Notes": "Produced 1993–present."
   },
-   "Salmon": {
+  "Pink Sherbert": {
+    "H": "12",
+    "S": "43",
+    "V": "97",
+    "R": "247",
+    "G": "163",
+    "B": "142",
+    "Hexadecimal": "#F78FA7",
+    "Notes": "Produced 1998–present. Known as \"Brink Pink\", 1998–2005."
+  },
+  "Salmon": {
     "H": "350",
     "S": "43",
     "V": "100",
@@ -1309,27 +1529,47 @@
     "Hexadecimal": "#FF91A4",
     "Notes": "Produced 1949–present."
   },
-   "Middle Red Purple": {
+  "Radical Red": {
+    "H": "348",
+    "S": "79",
+    "V": "100",
+    "R": "255",
+    "G": "53",
+    "B": "94",
+    "Hexadecimal": "#FF355E",
+    "Notes": "Produced 1990–present."
+  },
+  "Wild Watermelon": {
+    "H": "349",
+    "S": "64",
+    "V": "99",
+    "R": "253",
+    "G": "91",
+    "B": "120",
+    "Hexadecimal": "#FD5B78",
+    "Notes": "Produced 1972–present."
+  },
+  "Middle Red Purple": {
     "H": "0",
-    "S": "83",
-    "V": "83",
+    "S": "50",
+    "V": "65",
     "R": "165",
     "G": "83",
     "B": "83",
     "Hexadecimal": "#A55353",
     "Notes": "Part of the Munsell line, 1926–1944."
   },
-   "Mahogany": {
-    "H": "0",
-    "S": "74",
-    "V": "79",
-    "R": "202",
-    "G": "52",
-    "B": "53",
-    "Hexadecimal": "#CA3435",
-    "Notes": "Produced 1949–present."
+  "Fuzzy Wuzzy": {
+    "H": "20",
+    "S": "77",
+    "V": "53",
+    "R": "135",
+    "G": "66",
+    "B": "31",
+    "Hexadecimal": "#C7625A",
+    "Notes": "Produced 1998–present. Known as \"Fuzzy Wuzzy Brown\", 1998–2005."
   },
-   "Melon": {
+  "Melon": {
     "H": "10",
     "S": "32",
     "V": "100",
@@ -1339,17 +1579,7 @@
     "Hexadecimal": "#FEBAAD",
     "Notes": "Produced 1958–present."
   },
-   "Pink Sherbert": {
-    "H": "12",
-    "S": "43",
-    "V": "97",
-    "R": "247",
-    "G": "163",
-    "B": "142",
-    "Hexadecimal": "#F7A38E",
-    "Notes": "Produced 1998–present. Known as \"Brink Pink\", 1998–2005."
-  },
-   "Burnt Sienna": {
+  "Burnt Sienna": {
     "H": "14",
     "S": "65",
     "V": "91",
@@ -1359,7 +1589,7 @@
     "Hexadecimal": "#E97451",
     "Notes": "Produced 1903–present."
   },
-   "Brown": {
+  "Brown": {
     "H": "14",
     "S": "65",
     "V": "69",
@@ -1369,7 +1599,7 @@
     "Hexadecimal": "#AF593E",
     "Notes": "Produced 1935–present."
   },
-   "Sepia": {
+  "Sepia": {
     "H": "17",
     "S": "59",
     "V": "62",
@@ -1379,17 +1609,7 @@
     "Hexadecimal": "#9E5B40",
     "Notes": "Produced 1935–1944, 1958–present. Available only in bulk, 1935–1939."
   },
-   "Fuzzy Wuzzy": {
-    "H": "20",
-    "S": "77",
-    "V": "53",
-    "R": "135",
-    "G": "66",
-    "B": "31",
-    "Hexadecimal": "#87421F",
-    "Notes": "Produced 1998–present. Known as \"Fuzzy Wuzzy Brown\", 1998–2005."
-  },
-   "Beaver": {
+  "Beaver": {
     "H": "22",
     "S": "38",
     "V": "57",
@@ -1399,17 +1619,7 @@
     "Hexadecimal": "#926F5B",
     "Notes": "Produced 1998–present."
   },
-   "Tumbleweed": {
-    "H": "24",
-    "S": "42",
-    "V": "87",
-    "R": "222",
-    "G": "166",
-    "B": "129",
-    "Hexadecimal": "#DEA681",
-    "Notes": "Produced 1993–present."
-  },
-   "Raw Sienna": {
+  "Raw Sienna": {
     "H": "24",
     "S": "67",
     "V": "82",
@@ -1419,9 +1629,19 @@
     "Hexadecimal": "#D27D46",
     "Notes": "Produced 1958–present."
   },
-   "Van Dyke Brown": {
+  "Tumbleweed": {
+    "H": "24",
+    "S": "42",
+    "V": "87",
+    "R": "222",
+    "G": "166",
+    "B": "129",
+    "Hexadecimal": "#DEA681",
+    "Notes": "Produced 1993–present."
+  },
+  "Van Dyke Brown": {
     "H": "25",
-    "S": "60",
+    "S": "61",
     "V": "40",
     "R": "102",
     "G": "66",
@@ -1429,17 +1649,17 @@
     "Hexadecimal": "#664228",
     "Notes": "Produced 1903–1935. Same color as \"Brown\" (1903–1935)."
   },
-   "Tan": {
+  "Tan": {
     "H": "25",
-    "S": "50",
-    "V": "85",
-    "R": "217",
-    "G": "154",
-    "B": "108",
-    "Hexadecimal": "#D99A6C",
+    "S": "64",
+    "V": "98",
+    "R": "250",
+    "G": "157",
+    "B": "90",
+    "Hexadecimal": "#FA9D5A",
     "Notes": "Produced 1958–present."
   },
-   "Desert Sand": {
+  "Desert Sand": {
     "H": "25",
     "S": "26",
     "V": "93",
@@ -1449,7 +1669,7 @@
     "Hexadecimal": "#EDC9AF",
     "Notes": "Produced 1998–present."
   },
-   "Peach": {
+  "Peach": {
     "H": "26",
     "S": "36",
     "V": "100",
@@ -1459,8 +1679,8 @@
     "Hexadecimal": "#FFCBA4",
     "Notes": "Produced 1903–present. Known as \"Flesh Tint\" (1903–1949), \"Flesh\" (1949–1956, 1958–1962), and \"Pink Beige\" (1956–1958)."
   },
-   "Burnt Umber": {
-    "H": "27",
+  "Burnt Umber": {
+    "H": "26",
     "S": "60",
     "V": "50",
     "R": "128",
@@ -1469,7 +1689,7 @@
     "Hexadecimal": "#805533",
     "Notes": "Produced 1903–1944."
   },
-   "Apricot": {
+  "Apricot": {
     "H": "28",
     "S": "30",
     "V": "99",
@@ -1479,7 +1699,17 @@
     "Hexadecimal": "#FDD5B1",
     "Notes": "Produced 1958–present."
   },
-   "Almond": {
+  "Raw Umber": {
+    "H": "29",
+    "S": "43",
+    "V": "53",
+    "R": "136",
+    "G": "106",
+    "B": "78",
+    "Hexadecimal": "#886A4E",
+    "Notes": "Produced 1903–1990."
+  },
+  "Almond": {
     "H": "30",
     "S": "18",
     "V": "93",
@@ -1489,17 +1719,7 @@
     "Hexadecimal": "#EED9C4",
     "Notes": "Produced 1998–present."
   },
-   "Raw Umber": {
-    "H": "31",
-    "S": "50",
-    "V": "40",
-    "R": "102",
-    "G": "82",
-    "B": "51",
-    "Hexadecimal": "#665233",
-    "Notes": "Produced 1903–1990."
-  },
-   "Shadow": {
+  "Shadow": {
     "H": "38",
     "S": "39",
     "V": "51",
@@ -1509,7 +1729,7 @@
     "Hexadecimal": "#837050",
     "Notes": "Produced 1998–present."
   },
-   "Raw Sienna (I)": {
+  "Raw Sienna (I)": {
     "H": "42",
     "S": "60",
     "V": "90",
@@ -1519,17 +1739,7 @@
     "Hexadecimal": "#E6BC5C",
     "Notes": "Produced 1903–circa 1910."
   },
-   "Timberwolf": {
-    "H": "42",
-    "S": "5",
-    "V": "85",
-    "R": "217",
-    "G": "214",
-    "B": "207",
-    "Hexadecimal": "#D9D6CF",
-    "Notes": "Produced 1993–present."
-  },
-   "Gold (I)": {
+  "Gold (I)": {
     "H": "60",
     "S": "25",
     "V": "57",
@@ -1539,7 +1749,7 @@
     "Hexadecimal": "#92926E",
     "Notes": "Metallic; swatch represents nominal hue only. Produced 1903–1944. Available only in bulk after 1915."
   },
-   "Gold (II)": {
+  "Gold (II)": {
     "H": "34",
     "S": "40",
     "V": "90",
@@ -1549,7 +1759,7 @@
     "Hexadecimal": "#E6BE8A",
     "Notes": "Metallic; swatch represents nominal hue only. Produced 1953–present. Available only in bulk, 1953–1956."
   },
-   "Silver": {
+  "Silver": {
     "H": "21",
     "S": "7",
     "V": "79",
@@ -1559,7 +1769,7 @@
     "Hexadecimal": "#C9C0BB",
     "Notes": "Metallic; swatch represents nominal hue only. Produced 1903–present. Available only in bulk, 1915–1944."
   },
-   "Copper": {
+  "Copper": {
     "H": "18",
     "S": "53",
     "V": "85",
@@ -1569,7 +1779,7 @@
     "Hexadecimal": "#DA8A67",
     "Notes": "Metallic; swatch represents nominal hue only. Produced 1903–1915, 1958–present."
   },
-   "Antique Brass": {
+  "Antique Brass": {
     "H": "22",
     "S": "50",
     "V": "78",
@@ -1579,7 +1789,7 @@
     "Hexadecimal": "#C88A65",
     "Notes": "Metallic; swatch represents nominal hue only. Produced 1998–present."
   },
-   "Black": {
+  "Black": {
     "H": "0",
     "S": "0",
     "V": "0",
@@ -1589,8 +1799,8 @@
     "Hexadecimal": "#000000",
     "Notes": "Produced 1903–present."
   },
-   "Charcoal Gray": {
-    "H": "30",
+  "Charcoal Gray": {
+    "H": "28",
     "S": "15",
     "V": "45",
     "R": "115",
@@ -1599,7 +1809,7 @@
     "Hexadecimal": "#736A62",
     "Notes": "Produced 1903–1910."
   },
-   "Gray": {
+  "Gray": {
     "H": "33",
     "S": "8",
     "V": "55",
@@ -1609,7 +1819,7 @@
     "Hexadecimal": "#8B8680",
     "Notes": "As \"Middle Grey\", part of the Munsell line, 1926–1944. Spelled \"Grey\" on labels, but \"Gray\" on boxes. Also called \"Neutral Grey\", 1930–1956."
   },
-   "Blue-Gray": {
+  "Blue-Gray": {
     "H": "240",
     "S": "2",
     "V": "80",
@@ -1618,6 +1828,26 @@
     "B": "205",
     "Hexadecimal": "#C8C8CD",
     "Notes": "Produced 1958–1990."
+  },
+  "Timberwolf": {
+    "H": "42",
+    "S": "5",
+    "V": "85",
+    "R": "217",
+    "G": "214",
+    "B": "207",
+    "Hexadecimal": "#D9D6CF",
+    "Notes": "Produced 1993–present."
+  },
+  "Oatmeal": {
+    "H": "67",
+    "S": "4",
+    "V": "85",
+    "R": "217",
+    "G": "218",
+    "B": "210",
+    "Hexadecimal": "#D9DAD2",
+    "Notes": "Produced 2021–present*."
   },
   "White": {
     "H": "0",
@@ -1628,135 +1858,5 @@
     "B": "255",
     "Hexadecimal": "#FFFFFF",
     "Notes": "Produced 1903–present."
-  },
-  "Bluetiful": {
-    "H": "211",
-    "S": "51",
-    "V": "86",
-    "R": "108",
-    "G": "160",
-    "B": "220",
-    "Hexadecimal": "#6CA0DC",
-    "Notes": "Produced 2017–present. Replaced Dandelion in the 24-pack."
-  },
-  "Chestnut": {
-    "H": "352",
-    "S": "61",
-    "V": "73",
-    "R": "185",
-    "G": "78",
-    "B": "72",
-    "Hexadecimal": "#B94E48",
-    "Notes": "Produced 1999–present. Renamed from Indian Red in 1999."
-  },
-  "Neon Carrot": {
-    "H": "27",
-    "S": "100",
-    "V": "100",
-    "R": "255",
-    "G": "163",
-    "B": "67",
-    "Hexadecimal": "#FFA343",
-    "Notes": "Produced 1998–present."
-  },
-  "Atomic Tangerine": {
-    "H": "16",
-    "S": "100",
-    "V": "100",
-    "R": "255",
-    "G": "164",
-    "B": "116",
-    "Hexadecimal": "#FF9966",
-    "Notes": "Produced 1998–present."
-  },
-  "Sunglow": {
-    "H": "44",
-    "S": "100",
-    "V": "100",
-    "R": "255",
-    "G": "204",
-    "B": "51",
-    "Hexadecimal": "#FFCC33",
-    "Notes": "Produced 1998–present."
-  },
-  "Laser Lemon": {
-    "H": "63",
-    "S": "100",
-    "V": "100",
-    "R": "253",
-    "G": "252",
-    "B": "0",
-    "Hexadecimal": "#FDFC00",
-    "Notes": "Produced 1990–present."
-  },
-  "Screamin' Green": {
-    "H": "120",
-    "S": "100",
-    "V": "100",
-    "R": "118",
-    "G": "255",
-    "B": "122",
-    "Hexadecimal": "#76FF7A",
-    "Notes": "Produced 1990–present."
-  },
-  "Magic Mint": {
-    "H": "146",
-    "S": "49",
-    "V": "100",
-    "R": "170",
-    "G": "240",
-    "B": "209",
-    "Hexadecimal": "#AAF0D1",
-    "Notes": "Produced 1990–present."
-  },
-  "Robin Egg Blue": {
-    "H": "185",
-    "S": "73",
-    "V": "82",
-    "R": "57",
-    "G": "192",
-    "B": "210",
-    "Hexadecimal": "#39C0D2",
-    "Notes": "Produced 1993–present."
-  },
-  "Outrageous Orange": {
-    "H": "16",
-    "S": "71",
-    "V": "100",
-    "R": "255",
-    "G": "110",
-    "B": "74",
-    "Hexadecimal": "#FF6E4A",
-    "Notes": "Produced 1998–present."
-  },
-  "Hot Magenta": {
-    "H": "312",
-    "S": "89",
-    "V": "100",
-    "R": "255",
-    "G": "29",
-    "B": "206",
-    "Hexadecimal": "#FF1DCE",
-    "Notes": "Produced 1990–present."
-  },
-  "Piggy Pink": {
-    "H": "353",
-    "S": "13",
-    "V": "100",
-    "R": "253",
-    "G": "221",
-    "B": "230",
-    "Hexadecimal": "#FDDDE6",
-    "Notes": "Produced 1998–present."
-  },
-  "Electric Lime": {
-    "H": "68",
-    "S": "89",
-    "V": "100",
-    "R": "206",
-    "G": "255",
-    "B": "29",
-    "Hexadecimal": "#CEFF1D",
-    "Notes": "Produced 1990–present."
   }
 }
