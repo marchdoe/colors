@@ -26,6 +26,7 @@ body {
 .color-info {
   padding: 16px 16px 0;
   position: relative;
+  min-height: 332px;
 }
 
 .color-header {
