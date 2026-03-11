@@ -4,7 +4,7 @@ import { useLocalStorage } from './useLocalStorage.js'
 import { useColorQueue } from './useColorQueue.js'
 import { slugify, unslugify } from './slugify.js'
 import ColorDisplay from './ColorDisplay.jsx'
-import colors from './colors.json'
+import colors from './colors-enriched.json'
 
 function ColorPage() {
   const { slug } = useParams()
@@ -53,7 +53,12 @@ function ColorPage() {
         H={current.H}
         S={current.S}
         V={current.V}
-        notes={current.Notes}
+        introduced={current.introduced}
+        retired={current.retired}
+        status={current.status}
+        collection={current.collection}
+        nameHistory={current.nameHistory ?? []}
+        variants={current.variants ?? []}
         mode={mode}
         onToggleMode={() => setMode(m => m === 'classic' ? 'immersive' : 'classic')}
       />
